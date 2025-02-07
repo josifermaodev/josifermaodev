@@ -1,6 +1,6 @@
 # 👋 Olá, sou Josiane Fermao (@josifermaodev)
 
-Sou uma profissional FullStack
+Sou uma profissional FullStack em constante desenvolvimento.
 
 ---
 
