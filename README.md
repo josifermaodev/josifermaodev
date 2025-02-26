@@ -3,18 +3,15 @@
 Sou uma profissional FullStack em constante desenvolvimento.
 
 ---
+## 👀 Estou interessado em...
+[![iuricode](https://github-readme-stats.vercel.app/api?username=iuricode&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 👀 Estou interessado em...
 - Desenvolvimento Fullstack (JavaScript, React, Node.js)
 - Criação de interfaces acessíveis e responsivas
 - Soluções tecnológicas inovadoras para e-commerce
-
-## 🌱 No momento, estou aprendendo...
-- Frameworks e bibliotecas JavaScript (React, Next.js, Express.js)
-- Banco de dados SQL e NoSQL
-- Versionamento com Git e GitHub
-- Desenvolvimento de API RESTful
-- Inglês para aprimorar minha comunicação internacional
 
 ## 💞️ Estou procurando colaborar em...
 - Projetos open-source
@@ -25,9 +22,6 @@ Sou uma profissional FullStack em constante desenvolvimento.
 ## 📫 Como entrar em contato comigo...
 - **Email:** josianefermao@gmail.com
 - **LinkedIn:** [linkedin.com/in/josianefermao](https://www.linkedin.com/in/josianefermao/)
-
-## 😄 Pronomes:
-Ela/Dela
 
 ## ⚡ Curiosidade:
 Venho de uma família de agricultores da colônia alemã no Espírito Santo 
