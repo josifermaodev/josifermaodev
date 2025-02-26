@@ -3,10 +3,11 @@
 Sou uma profissional FullStack em constante desenvolvimento.
 
 ---
-## 👀 Estou interessado em...
-[![iuricode](https://github-readme-stats.vercel.app/api?username=iuricode&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+## Stats
+[![josifermaodev](https://github-readme-stats.vercel.app/api?username=josifermaodev&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![josifermaodev](https://github-readme-stats.vercel.app/api/top-langs/?username=josifermaodev&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 👀 Estou interessado em...
 - Desenvolvimento Fullstack (JavaScript, React, Node.js)
